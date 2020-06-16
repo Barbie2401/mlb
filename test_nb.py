@@ -10,5 +10,7 @@ def _exec_notebook(path):
         subprocess.check_call(args)
 
 
-def test():
+def test_1():
     _exec_notebook('1-clustering.ipynb')
+def test_2():
+    _exec_notebook('1-classification.ipynb')
