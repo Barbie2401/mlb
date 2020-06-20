@@ -17,6 +17,9 @@ Repositorio que contiene actividades de práctica para las clases básicas de ap
 3. Instalar todos los requerimientos con el siguiente comando:
 
       ``pip install -r requirements.txt``
+      
+4. Ejecutar Jupyter con:
+      ``jupyter notebook``
 
 ## Preparación Alternativa
 
