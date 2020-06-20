@@ -19,6 +19,7 @@ Repositorio que contiene actividades de práctica para las clases básicas de ap
       ``pip install -r requirements.txt``
       
 4. Ejecutar Jupyter con:
+
       ``jupyter notebook``
 
 ## Preparación Alternativa
