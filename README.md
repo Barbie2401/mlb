@@ -21,6 +21,8 @@ Repositorio que contiene actividades de práctica para las clases básicas de ap
 4. Ejecutar Jupyter con:
 
       ``jupyter notebook``
+      
+Realizar periódicamente ``git pull`` para actualizar los cambios de su repositorio.
 
 ## Preparación Alternativa
 
