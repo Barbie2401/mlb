@@ -29,3 +29,9 @@ Realizar periódicamente ``git pull`` para actualizar los cambios de su reposito
 Pueden utilizar binder para poder ejecutar las clases sin realizan instalación alguna en sus equipos y ejecutando todo en un entorno en la nube, siguiendo el siguiente enlace:
 
 https://mybinder.org/v2/gh/fvillena/mlb/master
+
+## Clase de Deep Learning
+
+Debido a la necesidad de una GPU para realizar las actividades de la clase 4 de manera más eficiente, esta misma se construyó en Google Colab. El siguiente enlace lleva a la clase:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](htthttps://colab.research.google.com/github/fvillena/mlb/blob/master/4-deep-learning.ipynb)
