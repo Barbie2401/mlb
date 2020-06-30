@@ -34,4 +34,4 @@ https://mybinder.org/v2/gh/fvillena/mlb/master
 
 Debido a la necesidad de una GPU para realizar las actividades de la clase 4 de manera más eficiente, esta misma se construyó en Google Colab. El siguiente enlace lleva a la clase:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](htthttps://colab.research.google.com/github/fvillena/mlb/blob/master/4-deep-learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fvillena/mlb/blob/master/4-deep-learning.ipynb)
