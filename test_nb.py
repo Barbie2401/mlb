@@ -14,7 +14,5 @@ def test_1():
     _exec_notebook('1-clustering.ipynb')
 def test_2():
     _exec_notebook('2-classification.ipynb')
-def test_2_sol():
-    _exec_notebook('2-classification.sol.ipynb')
 def test_3():
     _exec_notebook('3-nlp.ipynb')
